@@ -53,7 +53,7 @@ Async-safe communication with full UI-thread marshaling for stable, non-blocking
 - Optimised polling interval with intelligent UI button toggling
 
 ## Example Output
-![](https://github.com/DavidDeeds/AuroraMonbus/screenshot.jpg)
+![](https://github.com/DavidDeeds/AuroraMonbus/blob/main/screenshot.jpg)
 
 ## Getting Started
 1. Connect your inverter RS-485 port to a RS485 to Ethernet Converter such as this https://www.pusr.com/products/1-port-rs485-to-ethernet-converters-usr-tcp232-304.html or similar Wi-Fi model (recommend) to get a virtual COM port in Windows or use a RS-485 to USB adapter.
