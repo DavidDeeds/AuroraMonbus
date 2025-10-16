@@ -1,4 +1,4 @@
-# AuroraMonbus — Power-One Aurora / ABB / FIMER Inverter Monitoring ToolAuroraMonbus — ABB / FIMER Inverter Monitoring Tool
+# AuroraMonbus — Power-One Aurora / ABB / FIMER Inverter Monitoring Tool
 
 AuroraMonbus is a Windows desktop application written in C# (.NET 8) that communicates directly with *some* Power-one Aurora / ABB / FIMER Aurora solar inverters over RS-485 (serial).
 It provides real-time monitoring, diagnostics, and system performance insights through a modern, responsive WinForms interface.
